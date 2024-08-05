@@ -4,3 +4,6 @@ Audio call
 Type option
 Color
 Vibrant
+Dark mode
+Light mode
+Video call
